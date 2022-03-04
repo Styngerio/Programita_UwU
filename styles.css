@@ -1,0 +1,35 @@
+.container{
+    margin-top: auto;
+    padding:  2rem;
+}
+
+h3{
+    font-size: 50px;
+}
+
+input{
+    background-color: rgb(192, 182, 194);
+    font-size: 50px;
+    color: rgb(42, 137, 201);
+    padding: auto;
+}
+input:hover{
+    background-color: rgb(240, 162, 233);
+    font-size: 50px;
+    color: rgb(201, 42, 116);
+    padding: auto;
+}
+
+.box{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+body{
+    background-color: rgb(92, 90, 194);
+}
+img{
+    height: 50%;
+    width: 50%;
+}
